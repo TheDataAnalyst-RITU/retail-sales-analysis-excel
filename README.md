@@ -110,6 +110,8 @@ What makes it interactive:
 - Every chart updates instantly when a slicer is selected
 - A consistent layout and colour theme so it reads like a finished business report, not a spreadsheet
 
+💡 *Excel skills used:* Slicers, dashboard layout design, connecting slicers to multiple PivotCharts, and visual formatting.
+
 ---
 
 ## 🔍 6. Key Insights
@@ -157,6 +159,4 @@ This project began as a guided learning exercise to strengthen my Excel and anal
   
 ## 📌 *Dashboard screenshot:*
 
-![Vrinda Store Dashboard](https://github.com/TheDataAnalyst-RITU/Excel-Project---Vrinda-Store-Sales-Analysis/blob/main/Vrinda%20Store%20Sales%20Anaysis%20Dashboard.png))
-
-> 💡 *Excel skills used:* Slicers, dashboard layout design, connecting slicers to multiple PivotCharts, and visual formatting.
+![Vrinda Store Dashboard](https://github.com/TheDataAnalyst-RITU/Excel-Project---Vrinda-Store-Sales-Analysis/blob/main/Vrinda%20Store%20Sales%20Anaysis%20Dashboard.png)
