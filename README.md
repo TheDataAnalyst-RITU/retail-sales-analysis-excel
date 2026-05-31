@@ -131,6 +131,6 @@ Based on the insights, here's what Vrinda Store could do to grow in 2023:
 
 This project began as a guided learning exercise to strengthen my Excel and analytics fundamentals — and I've documented the full workflow here in my own words to show how I approach a real analysis: clean it, process it, explore it, visualize it, and turn it into recommendations a business can actually act on.
   
-## 📌 *Dashboard screenshot:*
+## 📌 *Dashboard screenshot:
 
 ![Vrinda Store Dashboard](https://github.com/TheDataAnalyst-RITU/Excel-Project---Vrinda-Store-Sales-Analysis/blob/main/Vrinda%20Store%20Sales%20Anaysis%20Dashboard.png)
