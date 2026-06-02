@@ -6,7 +6,7 @@ This project takes a real-world style retail dataset (~31,000 order records) and
 
 ## 🎯 Objective
 
-Vrinda Store wanted to create an **Annual Sales Report for 2025** so the business could clearly understand its customers and find ways to **grow sales in 2026**.
+A retail Store wanted to create an **Annual Sales Report for 2025** so the business could clearly understand its customers and find ways to **grow sales in 2026**.
 
 The goal was simple but practical: take a year's worth of order data, make sense of it, and answer the questions that actually matter to the business.
 
