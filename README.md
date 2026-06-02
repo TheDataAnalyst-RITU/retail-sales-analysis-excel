@@ -1,4 +1,4 @@
-# 🛍️ Vrinda Store – Annual Sales Analysis (2022)
+# 🛍️ Retail Store – Annual Sales Analysis (2025)
 
 An end-to-end data analytics project built entirely in **Microsoft Excel**, covering the full workflow from raw, messy data all the way to an interactive dashboard with business recommendations.
 
@@ -6,7 +6,7 @@ This project takes a real-world style retail dataset (~31,000 order records) and
 
 ## 🎯 Objective
 
-Vrinda Store wanted to create an **Annual Sales Report for 2022** so the business could clearly understand its customers and find ways to **grow sales in 2023**.
+Vrinda Store wanted to create an **Annual Sales Report for 2025** so the business could clearly understand its customers and find ways to **grow sales in 2026**.
 
 The goal was simple but practical: take a year's worth of order data, make sense of it, and answer the questions that actually matter to the business.
 
@@ -16,7 +16,7 @@ These were the key business questions I set out to answer:
 
 - Compare the **sales and orders** trend using a single chart
 - Which **month** had the highest sales and orders?
-- Who purchased more in 2022 — **men or women**?
+- Who purchased more in 2025 — **men or women**?
 - What were the different **order statuses** (delivered, returned, cancelled, refunded)?
 - What are the **top 10 states** contributing to sales?
 - What is the **relationship between age and gender** based on number of orders?
@@ -98,7 +98,7 @@ What makes it interactive:
 
 ## 🔍 6. Key Insights
 
-Here's what the 2022 data revealed:
+Here's what the 2025 data revealed:
 
 - 👩 **Women drove the majority of sales** — about **64%** of purchases came from women vs. 36% from men.
 - 📅 **March was the peak month** for both sales and orders, with a clear slowdown toward the end of the year.
@@ -110,7 +110,7 @@ Here's what the 2022 data revealed:
 
 ## 💡 7. Recommendations & Next Steps
 
-Based on the insights, here's what Vrinda Store could do to grow in 2023:
+Based on the insights, here's what this retail store could do to grow in 2026:
 
 - **Lean into the core customer.** Adult women are the biggest segment — tailor marketing, product range, and offers toward them.
 - **Plan inventory around demand.** Stock up on "Set" and "Kurta" categories, which clearly dominate sales.
@@ -133,4 +133,4 @@ This project began as a guided learning exercise to strengthen my Excel and anal
   
 ## 📌 *Dashboard screenshot:
 
-![Vrinda Store Dashboard](https://github.com/TheDataAnalyst-RITU/Excel-Project---Vrinda-Store-Sales-Analysis/blob/main/Vrinda%20Store%20Sales%20Anaysis%20Dashboard.png)
+![Retail Store Dashboard](https://github.com/TheDataAnalyst-RITU/Excel-Project---Vrinda-Store-Sales-Analysis/blob/main/Vrinda%20Store%20Sales%20Anaysis%20Dashboard.png)
